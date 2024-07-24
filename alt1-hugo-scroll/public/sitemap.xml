@@ -2,14 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>https://franklinassoc.github.io/evangeline-lafayette/alt1-hugo-scroll/</loc>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://franklinassoc.github.io/evangeline-lafayette/alt1-hugo-scroll/license/</loc>
   </url><url>
-    <loc>/license/</loc>
-  </url><url>
-    <loc>/tags/</loc>
-  </url><url>
-    <loc>/legal/</loc>
+    <loc>https://franklinassoc.github.io/evangeline-lafayette/alt1-hugo-scroll/legal/</loc>
   </url>
 </urlset>
