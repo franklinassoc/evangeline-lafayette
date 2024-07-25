@@ -4,7 +4,7 @@
  *Prototype websites for client consideration*
  
  StoryMap: 
- [storymap.knightlab.com/edit/?id=evangeline-corridor](https://storymap.knightlab.com/edit/?id=evangeline-corridor)
+ [storymap.knightlab.com/edit/?id=evangeline-corridor](https://uploads.knightlab.com/storymapjs/84fccb163cd35781d80aaeca470527ac/evangeline-corridor/draft.html)
  
  Hugo Scroll theme: 
  [franklinassoc.github.io/evangeline-lafayette/alt1-hugo-scroll](https://franklinassoc.github.io/evangeline-lafayette/alt1-hugo-scroll/public/)
