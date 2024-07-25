@@ -14,9 +14,9 @@
  
  LEDA website section mock-up: 
  
- ![screencap-image](https://franklinassoc.github.io/evangeline-lafayette/alt3-LEDA_website/public/alt-3_in_LEDA_website_v1_Page_1.jpg)
+ ![screencap-image](https://franklinassoc.github.io/evangeline-lafayette/alt3-LEDA_website/alt-3_in_LEDA_website_v1_Page_1.jpg)
  
-  ![screencap-image](https://franklinassoc.github.io/evangeline-lafayette/alt3-LEDA_website/public/alt-3_in_LEDA_website_v1_Page_2.jpg)
+  ![screencap-image](https://franklinassoc.github.io/evangeline-lafayette/alt3-LEDA_website/alt-3_in_LEDA_website_v1_Page_2.jpg)
  
  ---
  
