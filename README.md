@@ -3,14 +3,18 @@
 
  *Prototype websites for client consideration*
  
- StoryMap: 
- [storymap.knightlab.com/edit/?id=evangeline-corridor](https://uploads.knightlab.com/storymapjs/84fccb163cd35781d80aaeca470527ac/evangeline-corridor/draft.html)
- 
- Hugo Scroll theme: 
+Hugo Scroll theme: 
  [franklinassoc.github.io/evangeline-lafayette/alt1-hugo-scroll](https://franklinassoc.github.io/evangeline-lafayette/alt1-hugo-scroll/public/)
  
- Hugo Story theme: 
+Hugo Story theme: 
  [franklinassoc.github.io/evangeline-lafayette/alt2-hugo-story](https://franklinassoc.github.io/evangeline-lafayette/alt2-hugo-story/public/)
+
+StoryMap by Knight Lab: 
+ [storymap.knightlab.com/edit/?id=evangeline-corridor](https://uploads.knightlab.com/storymapjs/84fccb163cd35781d80aaeca470527ac/evangeline-corridor/draft.html)
+ 
+
+Alternate Storymap deployment for MRB South based on HandsOnViz framework:
+[franklinassoc.github.io/mrbsouth/](https://franklinassoc.github.io/mrbsouth/)
  
  LEDA website section mock-up: 
  
